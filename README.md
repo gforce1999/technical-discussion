@@ -15,3 +15,4 @@ this is a good example of [my code](https://gist.github.com/gforce1999/8d958a730
 this is the [notebook](https://github.com/gforce1999/technical-discussion/blob/main/technical_docs.ipynb)
 
 ### Image
+![image](https://github.com/gforce1999/technical-discussion/assets/27776871/64334c16-23db-45fc-9138-8ad04382cd69)
