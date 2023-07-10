@@ -13,3 +13,5 @@ this is a good example of [my code](https://gist.github.com/gforce1999/8d958a730
 ### Colab Example
 
 this is the [notebook](https://github.com/gforce1999/technical-discussion/blob/main/technical_docs.ipynb)
+
+### Image
